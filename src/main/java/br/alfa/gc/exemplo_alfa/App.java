@@ -1,7 +1,7 @@
 package br.alfa.gc.exemplo_alfa;
 
 /**
- * Hello world!
+ * Aplicação Básica
  *
  */
 public class App 
