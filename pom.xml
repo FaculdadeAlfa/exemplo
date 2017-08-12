@@ -22,4 +22,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <plugins>
+    <plugin>
+        <groupId>org.eluder.coveralls</groupId>
+        <artifactId>coveralls-maven-plugin</artifactId>
+        <version>4.3.0</version>
+        <configuration>
+            <repoToken>dJYxrdPfEvogtWlNcwyE91FvUtFdVnEi8</repoToken>
+        </configuration>
+    </plugin>
+  </plugins>
 </project>
